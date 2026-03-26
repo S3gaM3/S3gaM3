@@ -83,16 +83,7 @@ code → structure → performance → real usage
 ## 📊 Activity
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=S3gaM3&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S3gaM3&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=S3gaM3&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=S3gaM3&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
