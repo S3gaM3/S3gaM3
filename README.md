@@ -1,4 +1,4 @@
-<!-- HERO BANNER (custom SVG) -->
+<!-- ================= HERO ================= -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/S3gaM3/S3gaM3/main/banner.svg" />
 </p>
@@ -17,101 +17,114 @@
 
 ---
 
-## 🧠 Identity
+## 🧠 SYSTEM PROFILE
 
-```
-code → structure → performance → real usage
-```
+```bash
+> whoami
+Segak — web developer with system thinking
 
-- Системное мышление в разработке
-- UI как часть системы, а не цель
-- Минимизация сложности
-- Ориентация на реальные задачи
+> approach
+build → structure → optimize → scale
+
+> focus
+frontend / architecture / real-world integration
+```
 
 ---
 
-## ⚙️ Stack
+## ⚙️ STACK MATRIX
 
-<p align="center">
-
-![JS](https://img.shields.io/badge/JavaScript-0A0A0A?style=for-the-badge&logo=javascript)
-![TS](https://img.shields.io/badge/TypeScript-0A0A0A?style=for-the-badge&logo=typescript)
-![React](https://img.shields.io/badge/React-0A0A0A?style=for-the-badge&logo=react)
-![Node](https://img.shields.io/badge/Node.js-0A0A0A?style=for-the-badge&logo=node.js)
-![Docker](https://img.shields.io/badge/Docker-0A0A0A?style=for-the-badge&logo=docker)
-![Linux](https://img.shields.io/badge/Linux-0A0A0A?style=for-the-badge&logo=linux)
-
-</p>
+```text
+Core       → React / TypeScript / JavaScript
+Runtime    → Node.js
+Layout     → CSS / SCSS
+Infra      → Linux / Docker
+Workflow   → Git / CI/CD
+```
 
 ---
 
-## 🚀 Projects
+## 🚀 FEATURED PROJECTS
 
 ### 🔹 Arviden Site
-> Коммерческий веб‑сайт с акцентом на производительность и масштабируемую структуру
-
-- Что решает: презентация продукта/услуг с фокусом на конверсию и стабильную работу
-- Что сложно: организация архитектуры интерфейса без перегрузки, адаптивность под разные устройства
-- Мой вклад: разработка UI, построение структуры компонентов, оптимизация отображения
-- Stack: React / JavaScript / CSS
+```text
+Problem   → Требуется быстрый и адаптивный коммерческий сайт
+Solution  → SPA с чистой структурой компонентов
+Complexity→ Баланс UI / производительности
+Result    → Стабильный и масштабируемый интерфейс
+```
+- Stack: React / JS / CSS
 - Repo: https://github.com/S3gaM3/arviden_site
 
 ---
 
 ### 🔹 Newlufter
-> Интерактивное веб‑приложение с пользовательскими сценариями
-
-- Что решает: управление пользовательским взаимодействием и логикой внутри интерфейса
-- Что сложно: синхронизация состояний и предсказуемое поведение UI
-- Мой вклад: реализация клиентской логики, проектирование UX-потока, обработка состояний
+```text
+Problem   → Сложное пользовательское взаимодействие
+Solution  → Управление состояниями и логикой UI
+Complexity→ Предсказуемость поведения
+Result    → Чёткий UX поток
+```
 - Stack: JavaScript
 - Repo: https://github.com/S3gaM3/newlufter
 
 ---
 
 ### 🔹 Toolshop
-> Веб‑каталог / инструмент для работы с данными
-
-- Что решает: удобное представление и навигация по структуре данных
-- Что сложно: организация данных и быстрый доступ к нужной информации
-- Мой вклад: проектирование структуры, реализация интерфейса, оптимизация взаимодействия
+```text
+Problem   → Работа с данными и навигацией
+Solution  → Удобный веб‑каталог
+Complexity→ Структура и быстрый доступ
+Result    → Простое взаимодействие с данными
+```
 - Stack: JavaScript
 - Repo: https://github.com/S3gaM3/toolshop
 
 ---
 
-## 📊 Activity
+## 📊 SYSTEM METRICS
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=S3gaM3&theme=tokyonight&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=S3gaM3&theme=tokyo-night&hide_border=true" />
+</p>
+
 ---
 
-## 🧩 Engineering
+## 🧩 ENGINEERING MODEL
 
+```text
+[1] Problem definition
+[2] System design
+[3] Implementation
+[4] Optimization
+[5] Scaling
 ```
-- predictable systems
-- no magic
-- scalable structure
-- performance-first thinking
+
+---
+
+## ⚡ CURRENT STATE
+
+```text
+status: active
+mode: building
+focus: fullstack + architecture
 ```
 
 ---
 
-## ⚡ Current Focus
-
-- Fullstack развитие
-- Архитектура приложений
-- Автоматизация процессов
-
----
-
-## 📬 Contact
+## 📬 CONTACT
 
 https://www.segak.ru
 
 ---
+
+<p align="center">
+  <sub>system • clarity • performance • engineering mindset</sub>
+</p>
 
 <!-- FOOTER -->
 <p align="center">
